@@ -118,12 +118,12 @@ export default {
   }
   #img{
     object-fit: contain;
-    width: 19vw;
+    width: 18vw;
     transition: 0.3s;
     filter: blur(1.5px);
   }
   #img:hover{
-    width: 21vw;
+    width: 19vw;
     cursor: pointer;
     filter: none;
   }

@@ -20,9 +20,10 @@ export default {
 <style scoped>
     div{
         border: 3px black solid;
-        border-radius: 10%;
+        border-radius: 20px;
         width: 300px;
-        margin: auto;
+        margin: 10px;
+        justify-content: center;
     }
 
 </style>
